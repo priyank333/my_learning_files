@@ -3,7 +3,7 @@ Here is a detailed explanation of each annotation you mentioned, with examples r
 ### Core Spring & Spring Boot Annotations
 
 #### `@SpringBootApplication`
-- **Purpose**: Marks the main class of a Spring Boot application. It is a combination of `@Configuration`, `@EnableAutoConfiguration`, and `@ComponentScan`.
+- **Purpose**: Marks the main class of a Spring Boot application. It is a combination of `@Configuration`, `@EnableAutoConfiguration`, and `@ComponentScan`s.
 - **Example**:
   ```java
   @SpringBootApplication
